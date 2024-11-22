@@ -23,5 +23,13 @@ def main():
 """
     checkmate(board)
 
+# 3 no cheak
+    board = """\
+....
+...K
+\
+"""
+    checkmate(board)
+
 if __name__ == "__main__":
     main()
