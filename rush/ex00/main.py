@@ -2,6 +2,7 @@ from checkmate import checkmate
 
 # board
 def main():
+
 # 1 cheak
     board = """\
 ....
