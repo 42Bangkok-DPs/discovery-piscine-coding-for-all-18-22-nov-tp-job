@@ -39,5 +39,19 @@ def main():
 """
     checkmate(board)
 
+# 3
+    board = """\
+..........
+...Q....
+........
+........
+.....K..
+........
+........
+.......R
+\
+"""
+    checkmate(board)
+
 if __name__ == "__main__":
     main()
